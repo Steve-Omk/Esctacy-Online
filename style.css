@@ -210,6 +210,18 @@ footer {
         padding: 0vh 8vw;
     }
 
+    /* .slider{
+        display: none;
+    } */
+
+    .slider img{
+        width: 100vw;
+    }
+
+    .slider-img{
+        display: none;
+    }
+
     .card {
         display: flex;
         flex-direction: column;
